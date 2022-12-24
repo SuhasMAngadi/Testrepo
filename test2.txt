@@ -1,0 +1,11 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 0EC1-44BB
+
+ Directory of C:\Users\suhas\Desktop\proj1
+
+24-12-2022  22:33    <DIR>          .
+24-12-2022  22:33    <DIR>          ..
+24-12-2022  22:33                 0 test2.txt
+20-12-2022  23:27                10 text1.txt
+               2 File(s)             10 bytes
+               2 Dir(s)  446,825,500,672 bytes free
